@@ -1,0 +1,30 @@
+.search-input {
+	width: 20%;
+	height: 50px;
+	border-radius: 10px;
+	font-size: 20px;
+	padding: 0 10px;
+	margin-right: 20px;
+	margin-left: 20px;
+}
+
+.search-form {
+	display: flex;
+	flex-direction: row;
+}
+
+.search-button {
+	height: 50px;
+	border-radius: 10px;
+	font-size: 18px;
+	color: white;
+	background-color: #b7011a;
+	border-color: #b7011a;
+	transition: 500ms;
+}
+
+.search-button:hover {
+	background-color: white;
+	color: #211a1b;
+	transition: 500ms;
+}
