@@ -8,7 +8,7 @@ React.
 The UI needed to include: _ A Search page, which allows users to search for
 images by keyword _ a display of the images returned by the search
 
-![desktop render](https://github.com/HollyJM81/spaced/blob/main/screenshot.png?raw=true)
+![screenshot on desltop](screenshot.png)
 
 ## Built With
 
